@@ -2,11 +2,11 @@
 
 ## UI
 1. Send mail
-![send mail](./_media/video.webm?raw=true)
+![send mail](./_media/video.webm)
 2. Login
 ![login screen](./_media/login.png?raw=true)
 3. Inbox
-![inbox screen](./_media/linbox.png?raw=true)
+![inbox screen](./_media/inbox.png?raw=true)
 4.  View gmail
 ![view gmail](./_media/detail.png?raw=true)
 ## Project setup
