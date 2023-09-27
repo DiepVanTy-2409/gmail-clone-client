@@ -2,7 +2,7 @@
 
 ## UI
 1. Send mail
-[video.webm](https://github.com/DiepVanTy-2409/gmail-clone-client/assets/130414836/fb73e76f-4a29-4817-ab34-4eb156a2ec5f)
+<!-- [video.webm](https://github.com/DiepVanTy-2409/gmail-clone-client/assets/130414836/fb73e76f-4a29-4817-ab34-4eb156a2ec5f) -->
 2. Login
 ![login screen](./_media/login.png?raw=true)
 3. Inbox
