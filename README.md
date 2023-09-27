@@ -10,7 +10,7 @@
 4.  View gmail
 ![view gmail](./_media/detail.png?raw=true)
 
-## Clone server [backend repository](https://github.com/DiepVanTy-2409/gmail-clone-server)
+## [GET SERVER FOR APP](https://github.com/DiepVanTy-2409/gmail-clone-server)
 
 ## Create .env file
 ```
