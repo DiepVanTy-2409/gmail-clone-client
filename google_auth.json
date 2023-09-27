@@ -1,0 +1,15 @@
+{
+    "web": {
+        "client_id": "689212253208-bk10m8acrc3fo7tdfa042a0l9bduq7tt.apps.googleusercontent.com",
+        "project_id": "gmai-clone-394511",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost",
+            "http://localhost:8080",
+            "http://localhost:4001"
+        ]
+    }
+}
